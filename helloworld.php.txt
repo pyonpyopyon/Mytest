@@ -1,0 +1,6 @@
+<?php
+	put hello world
+
+
+
+?>
